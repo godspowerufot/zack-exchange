@@ -1,0 +1,10 @@
+.header {
+  background-image: linear-gradient(
+      to bottom,
+      rgb(11, 22, 95),
+      rgba(8, 41, 81, 0.73)
+    ),
+    url("./bgcolor.png");
+  width: 100vw;
+  height: 100vh;
+}
