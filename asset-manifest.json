@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.aca96030.css",
-    "main.js": "/static/js/main.98882bcc.js",
-    "static/media/bgcolor.png": "/static/media/bgcolor.896364f1bd6ef610e9e7.png",
-    "static/media/investment.png": "/static/media/investment.5cc13481b4ae2a1cf75b.png",
-    "static/media/home.png": "/static/media/home.931ad1d74ae394282e4e.png",
-    "static/media/about.jpg": "/static/media/about.7f3c3268cdc2edc52ff6.jpg",
-    "index.html": "/index.html",
-    "main.aca96030.css.map": "/static/css/main.aca96030.css.map",
-    "main.98882bcc.js.map": "/static/js/main.98882bcc.js.map"
+    "main.css": "/zack-exchange/static/css/main.800e86ba.css",
+    "main.js": "/zack-exchange/static/js/main.830874a8.js",
+    "static/media/bgcolor.png": "/zack-exchange/static/media/bgcolor.896364f1bd6ef610e9e7.png",
+    "static/media/investment.png": "/zack-exchange/static/media/investment.5cc13481b4ae2a1cf75b.png",
+    "static/media/home.png": "/zack-exchange/static/media/home.931ad1d74ae394282e4e.png",
+    "static/media/about.jpg": "/zack-exchange/static/media/about.7f3c3268cdc2edc52ff6.jpg",
+    "index.html": "/zack-exchange/index.html",
+    "main.800e86ba.css.map": "/zack-exchange/static/css/main.800e86ba.css.map",
+    "main.830874a8.js.map": "/zack-exchange/static/js/main.830874a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.aca96030.css",
-    "static/js/main.98882bcc.js"
+    "static/css/main.800e86ba.css",
+    "static/js/main.830874a8.js"
   ]
 }
