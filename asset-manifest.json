@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aca96030.css",
+    "main.js": "/static/js/main.98882bcc.js",
+    "static/media/bgcolor.png": "/static/media/bgcolor.896364f1bd6ef610e9e7.png",
+    "static/media/investment.png": "/static/media/investment.5cc13481b4ae2a1cf75b.png",
+    "static/media/home.png": "/static/media/home.931ad1d74ae394282e4e.png",
+    "static/media/about.jpg": "/static/media/about.7f3c3268cdc2edc52ff6.jpg",
+    "index.html": "/index.html",
+    "main.aca96030.css.map": "/static/css/main.aca96030.css.map",
+    "main.98882bcc.js.map": "/static/js/main.98882bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca96030.css",
+    "static/js/main.98882bcc.js"
+  ]
+}
