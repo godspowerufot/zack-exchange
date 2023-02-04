@@ -11,6 +11,7 @@ function Home() {
           style={{
             width: "100%",
             display: " flex",
+            marginTop: "40px",
             flexFlow: "row wrap",
             justifyContent: "center",
             alignItems: " center",

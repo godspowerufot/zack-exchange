@@ -25,7 +25,7 @@ function Footer() {
             <a href="tel:+2347089293254" className="icons">
               <Phone />
             </a>
-            <a href="http://wa.me/07089293254" className="icons">
+            <a href="http://wa.me/+2347089293254" className="icons">
               <WhatsApp />
             </a>
             <a href="http://t.me/Zack3254" className="icons">
